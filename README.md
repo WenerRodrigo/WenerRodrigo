@@ -18,4 +18,4 @@
     
 </div><br/>
 
-Atualmente estou cursando o 2° semestre de Gestão da Tecnologia da Informação.
+Atualmente estou cursando o 3° semestre de Gestão da Tecnologia da Informação.
