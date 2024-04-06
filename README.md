@@ -1,7 +1,7 @@
 ### Hello welcome! \O/👋
 
 
-My name is Wener Rodrigo, I live in Brazil (🇧🇷). I have worked as a Software developer since 2023, and I have experience as a Front End developer.
+Hello! I'm Wener Rodrigo, a passionate Full Stack developer driven by challenges and innovation. With a profound interest in technology, I bring a wide range of skills to web development, spanning from front-end technologies like REACT JS, REACT NATIVE, and NEXT JS, to the intricacies of back-end with TYPESCRIPT, JAVASCRIPT, and NODE JS. Collaboration is the cornerstone of my success, and I'm proficient in GIT and GITHUB, effectively contributing to development teams.
 
 ![Wener GitHub stats](https://github-readme-stats.vercel.app/api?username=wenerrodrigo&theme=blue-green)
 
@@ -16,9 +16,7 @@ My name is Wener Rodrigo, I live in Brazil (🇧🇷). I have worked as a Softwa
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
