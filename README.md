@@ -1,14 +1,20 @@
-### Hello welcome! \O/👋
+### Bem vindo! \O/👋
 
 
-Hello! I'm Wener Rodrigo, a passionate Full Stack developer driven by challenges and innovation. With a profound interest in technology, I bring a wide range of skills to web development, spanning from front-end technologies like REACT JS, REACT NATIVE, and NEXT JS, to the intricacies of back-end with TYPESCRIPT, JAVASCRIPT, and NODE JS. Collaboration is the cornerstone of my success, and I'm proficient in GIT and GITHUB, effectively contributing to development teams.
+Olá! Sou Wener Rodrigo, um desenvolvedor Full Stack apaixonado por desafios e inovação. Com um profundo interesse em tecnologia, trago uma ampla gama de habilidades para desenvolvimento web e tenho uma abordagem ágil e dinâmica em todos os projetos.
+
+Tenho experiência abrangente em diversas tecnologias e frameworks, como JavaScript, React, Node.js, e MongoDB, o que me permite construir aplicações robustas e escaláveis. Minha jornada na Convertize tem sido marcada por contribuições significativas em projetos que melhoraram a experiência do usuário e otimizaram processos internos, refletindo minha dedicação à eficiência e à qualidade.
+
+Além das minhas habilidades técnicas, possuo uma forte capacidade de colaboração. Sou um entusiasta do trabalho em equipe, sempre pronto para compartilhar conhecimento e aprender com os outros. Acredito que a comunicação aberta e a cooperação são fundamentais para o sucesso de qualquer projeto.
+
+Estou constantemente me atualizando com as últimas tendências e inovações tecnológicas, participando de cursos e conferências. Esta busca contínua por conhecimento me ajuda a identificar e implementar as melhores práticas e soluções mais avançadas, garantindo que os projetos em que trabalho estejam sempre na vanguarda da tecnologia.
 
 ![Wener GitHub stats](https://github-readme-stats.vercel.app/api?username=wenerrodrigo&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenerrodrigo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Technologies in my daily life
+## Tecnologias do meu dia a dia!
 
 <div>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
